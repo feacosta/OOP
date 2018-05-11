@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leer
+comment1.params=datos
+comment1.target=Leer(java.lang.String)
+comment2.params=archivo
+comment2.target=void\ muestraContenido(java.lang.String)
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Sujeto
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=Sujeto()
+comment3.params=
+comment3.target=void\ setNombre()
+comment4.params=
+comment4.target=void\ setApellido()
+comment5.params=
+comment5.target=void\ setRut()
+comment6.params=elrut
+comment6.target=boolean\ validarRut(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getNombre()
+comment8.params=
+comment8.target=java.lang.String\ getApellido()
+comment9.params=
+comment9.target=java.lang.String\ getRut()
+numComments=10
